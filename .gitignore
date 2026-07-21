@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+Person Detection with head.v2i.yolov8/
+*.zip
+
+*.pt
+*.pth
+*.onnx
+*.weights
+
+.vscode/
+*.log
